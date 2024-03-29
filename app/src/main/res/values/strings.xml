@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">android_3lesson_6</string>
+    <string name="minus">-</string>
+    <string name="_0">0</string>
+    <string name="plus">+</string>
+    <string name="finish">Finish</string>
+</resources>
